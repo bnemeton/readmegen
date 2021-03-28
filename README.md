@@ -1,23 +1,24 @@
-# 
+# README Generator
 
 ## Description
+A simple command line utility to generate a usable README for the user's project.
 
 
 ## Usage
+Once in the project directory, run the index.js using Node. Answer the questions it prompts you with, and then afterwards move the README it generates to wherever you need it.
+
+### Screenshots
+* ![./assets/screen1.png](A screenshot of the utility.)
+* ![./assets/screen2.png](A screenshot of the utility.)
+* ![./assets/output.png](A screenshot of the markdown file output by the utility.)
 
 
-## Contribution Guidelines
+### Video
 
-
-## Testing Instructions
 
 
 ## Contact
-* Github: 
-* Email: 
+* Github: bnemeton
+* Email: jmwinitsky@gmail.com
 
-## License
-
-  [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) Creative Commons Attribution-ShareAlike 4.0 International 
-  https://creativecommons.org/licenses/by-sa/4.0/
   
