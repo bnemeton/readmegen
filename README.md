@@ -14,7 +14,7 @@ Once in the project directory, run the index.js using Node. Answer the questions
 
 
 ### Video
-
+The video is too large to upload to github or to include as a GIF, but can be found at this link: https://drive.google.com/file/d/17AxfxLrAwEllmDMdBkwHx6TUn8CDKWqR/view?usp=sharing
 
 
 ## Contact
